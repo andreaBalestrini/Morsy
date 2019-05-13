@@ -1,0 +1,22 @@
+V1.0?
+V2.0?
+V3.0 	- riorganizzazione del software e ottimizzazioni
+	- schermo I2C
+	- aggiunti 2 caratteri (codifica byte)
+	- possibilità di scrivere su due righe
+	- aggiunto selettore per le velocità
+V3.1	- downgrade V4.1 con la rimozione del bluetooth
+V4.0	- implementazione connessione bluetooth base
+	- miglioramento gestione LCD
+	- miglioramenti software vari
+V4.1	- miglioramenti bluetooth con creazione di funzioni dedicate
+	- aggiornamento toni buzzer
+	- miglioramenti software pulsanti
+	- possibilità di scrivere su tutte le righe dello schermo (meno una)
+	- aggiunto "triplo click" per pulire tutte le righe dello schermo LCD e concludere frase su bluetooth
+	- la modalità gioco ora dice che lettera hai inserito anche se sbagli
+V4.2	- inizio implementazione modalità "pro" avanzata
+	- leggere modifiche al codice
+	- notato bug sulla selezione della velocità, caudato da bluetooth (hardware)
+V4.2a	- modificato il sistema di lettura dei pulsanti
+	- aggiornamenti minori al codice
