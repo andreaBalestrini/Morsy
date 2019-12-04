@@ -1,5 +1,3 @@
-V1.0?
-V2.0?
 V3.0 	- riorganizzazione del software e ottimizzazioni
 	- schermo I2C
 	- aggiunti 2 caratteri (codifica byte)
@@ -17,6 +15,11 @@ V4.1	- miglioramenti bluetooth con creazione di funzioni dedicate
 	- la modalità gioco ora dice che lettera hai inserito anche se sbagli
 V4.2	- inizio implementazione modalità "pro" avanzata
 	- leggere modifiche al codice
-	- notato bug sulla selezione della velocità, caudato da bluetooth (hardware)
+	- notato bug sulla selezione della velocità, causato da bluetooth (hardware)
 V4.2a	- modificato il sistema di lettura dei pulsanti
 	- aggiornamenti minori al codice
+V4.2b	- Ridotto il numero di modalità a 3
+V4.3	- Risolto il problema con il modulo bluetooth (hardware)
+	- Apportate leggere modifiche sull'invio delle stringhe bluetooth
+	- Aggiunto messaggio di errore per eventuale bug sul selettore delle modalità
+	- aggiustamenti minori nel codice
