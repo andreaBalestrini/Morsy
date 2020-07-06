@@ -23,3 +23,4 @@ V4.3	- Risolto il problema con il modulo bluetooth (hardware)
 	- Apportate leggere modifiche sull'invio delle stringhe bluetooth
 	- Aggiunto messaggio di errore per eventuale bug sul selettore delle modalità
 	- aggiustamenti minori nel codice
+V5.0	- Aggiornamenti hardware
